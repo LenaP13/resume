@@ -9,7 +9,7 @@
 
 /* Set a background color */
 body {
-  background-color: #D2CABD;
+  background-color: #F4F0EA;
   font-family: Helvetica, sans-serif;
 	  margin: 0 auto;
 	 padding:3%;
@@ -155,11 +155,19 @@ body {
   text-align: right; /* Right-align text */
   padding-top: 10px; /* Add top padding */
   padding-bottom: 10px; /* Add bottom padding */
-  color: white; /* White text color */
+  color: black; /* White text color */
 }
 
-.html {width: 90%; background-color: #4CAF50;} /* Green */
-.css {width: 80%; background-color: #2196F3;} /* Blue */
-.js {width: 65%; background-color: #f44336;} /* Red */
-.php {width: 60%; background-color: #808080;} /* Dark Grey */
+.Spanish {width:10% ; background-color: #9F998E;}
+.French {width: 30%; background-color: #9F998E;}
+.English{width: 89%; background-color: #7B766D;}
+.German {width: 100%; background-color: #57544F;}
+.Russian {width: 100%; background-color: #57544F;}
+.Ukrainian {width: 100%; background-color: #57544F;}
 
+.speedreading {width: 93%; background-color: #57544F;}
+.advancedwriting {width: 87%; background-color: #57544F;}
+.activelistening {width: 91%; background-color: #57544F;}
+.publicspeaking {width: 83%; background-color: #7B766D;}
+.researchskills {width: 82%; background-color: #7B766D;}
+.translationskills {width: 81%; background-color: #7B766D;}
